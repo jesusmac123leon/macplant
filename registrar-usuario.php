@@ -29,7 +29,7 @@
 	 $count = mysqli_num_rows($result);
 
 	 
-	 if ($count == 0) {
+	 if ($count == 1) {
 	 echo "<br />". "El Nombre de Usuario ya a sido tomado." . "<br />";
 
 	 
