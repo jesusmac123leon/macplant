@@ -27,7 +27,7 @@
 	 
 	 <!--Password-->
 	 <label for="pass">Password:</label><br>
-	 <input type="password" name="password" maxlength="8"  required>
+	 <input type="password" name="password" maxlength="30"  required>
 	 
 	 <br/><br/>
 	 <input type="submit" name="submit" value="Registrarme">
