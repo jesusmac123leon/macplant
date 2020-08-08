@@ -15,26 +15,25 @@
 	 <form action="registrar-usuario.php" method="post"> 
 	 <hr />
 
-	 <center><h3>facebook</h3>
+	 <center>
 
-	 <img src="124010.png" width="200"
-     height="100">
+	 <img src="124010.png" width="250"
+     height="150">
 	 </center>
 
-	<center> <label for="nombre">correo:</label><br>
+	<center> <label for="nombre"><h3>correo:</h3></label><br>
 	 <input type="text" name="username" maxlength="32" required>
 	 <br/><br/>
 	 
 	 <!--Password-->
-	 <label for="pass">Password:</label><br>
+	 <label for="pass"> <h3>Password</h3></label><br>
 	 <input type="password" name="password" maxlength="30"  required>
 	 
 	 <br/><br/>
 	 <input type="submit" name="submit" value="Registrarme">
-	 <input type="reset" name="clear" value="Borrar">
+	 
 	 </form></center>
 	 
-
 	<footer>
 	
 
